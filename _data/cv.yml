@@ -2,64 +2,106 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Bernard Hernandez
     - name: Date of Birth
-      value: 14th March 1879
+      value: 13th April 1989
     - name: Languages
-      value: English, German
+      value: Spanish, English
+
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science and Healthcare
+      institution: Imperial College London, London, UK
+      year: 2019
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - title: Thesis
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Pantelis Georgiou
+            - Centre for Bio-Inspired Technology, EEE
+            - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
+        - title: Activities & Awards
+          type: nested-list
+          contents:
+            - Participation in the Imperial Festival, 2016-2017.
+            - Research placement at UCT, Cape Town, South Africa, 2016.
+            - Global Health Fellows Programme at UCT, 2016.
+            - Best poster award at ARC conference, 2016.
+            - Participation in AMR DxC at University of Edinburgh, 2015.
+
+    - title: M.Sc. in Machine Learning (2 years)
+      institution: Royal Institute of Technology, Stockholm, Sweden
+      year: 2011 - 2013
       description:
-        - Description 1.
-        - Description 2.
+        - title: Thesis
+          contents:
+            - Björkman, Mårten
+            - School of Computer Science and Communication
+            - Multi-View Object Recognition and Classification. Graph-Based Representation of Visual Features and Structured Learning and Prediction.
+
+    - title: B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)
+      institution: Rey Juan Carlos University, Madrid, Spain
+      year: 2007 - 2013
+      description:
+        - title: Thesis
+          contents:
+            - Inmaculada Mora
+            - Signal Theory and Communications
+            - Algorithms for Detection and Description of Visual Features for Object Recognition. Analysis and Applications.
+        - title: Activities & Awards
+          contents:
+            - Young researcher's best thesis award, 2013.
+            - Leonardo scholarship at IRILL, Paris, France, 2012.
+            - Erasmus scholarship at KTH, Stockholm, Sweden, 2011.
+            - Wireless 4x4 radio-controlled car challenge, 2010.
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Associate
+      institution: Imperial College London, London, UK
+      year: 2020 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Artificial Intelligence and machine learning to devise clinical decision support systems
+          (CDSS) from clinical, physiological and imaging data for the early identification of dengue
+          shock under the "Innovations for impact in resource-limited settings" Wellcome Trust
+          innovations flagship programme. The team combines clinical expertise from Oxford University
+          Clinical Research Unit (OUCRU) and Hospital for Tropical Diseases (HTD) in Ho Chi Minh City,
+          Vietnam paired with biomedical engineers and computational scientists from University of
+          Oxford, King’s college London (KCL), Imperial College London (ICL) and Eidgenössische
+          Technische Hochschule (ETH), Zurich
+
+    - title: Research Assistant
+      institution: Imperial College London, London, UK
+      year: 2014 - 2019
+      description:
+        - Enhanced, Personalized and Integrated Care for Infection Management at the point of Care
+          (EPIC IMPOC) is an NIHR i4i funded project to develop an intelligent clinical decision
+          support system to help clinicians prescribe the most appropriate antibiotics. EPIC IMPOC
+          is a collaborative project between clinicians and other healthcare professionals from the
+          National Institute for Health Research Health Protection and Research Unit (NIHR HPRU) and
+          engineers from the Centre for Bioinspired Technology (CBIT).
+        - title: Activities & Awards
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Featured innovative start-up at Tech Foresight 2040.
+            - Techcelerate award (entrepreneurial program), 2020.
+
+    - title: Software Engineer
+      institution: Wide IO LTD, London, UK
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - Start-up working on disruptive products within the quadrangle of Artificial Intelligence,
+          API, IoT, and FinTech to build an ecosystem of data science tools within the cloud to allow
+          organisations to have constant access to state-of-art technology.
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Software Developer (internship)
+      institution: IRILL, Paris, France
+      year: 2012
       description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+        - Internship at the Center for Innovation and Research on Free Software (IRILL) under the
+          Leonardo program, 2012. The aim of this one-month internship was to develop e-learning
+          resources such as blog entries, ebooks and games.
 
 - title: Open Source Projects
   type: time_table
@@ -71,13 +113,17 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - year: 2014
+      items:
+        - Best young researchers thesis award by URJC
+    - year: 2012
+      items:
+        - Leonardo Scholarship
+        - Awarded by URJC
+    - year: 2011
+      items:
+        - Erasmus Scholarship by URJC
+        - Awared by URJC
 
 - title: Academic Interests
   type: nested_list

@@ -1,12 +1,12 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - bahp
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - bahp/ls2d
+  - bahp/pyamr
+  - bahp/datablend
+  - bahp/python-spare-code
+  - bahp/js-spare-code
+  - bahp/django-epicimpoc-microbiology
+  - bahp/django-epicimpoc-pathology
+  - bahp/django-epicimpoc-admissions
