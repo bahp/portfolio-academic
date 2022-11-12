@@ -10,8 +10,8 @@ profile:
   image: prof_pic_bahp.webp
   image_circular: false # crops the image to make it circular
   address: >
-    <p>B420 Bessemer building</p>
-    <p>South Kensington</p>
+    <p>B420 Bessemer building,</p>
+    <p>South Kensington,</p>
     <p>SW7 2AZ, London, UK</p>
 
 news: true  # includes a list of news items

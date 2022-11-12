@@ -4,3 +4,46 @@
 
 "PhysRev":
   url: https://journals.aps.org/
+
+"CMI":
+  url: https://journals.aps.org/
+  color: "#d3d3d3"
+
+"BMC ID":
+  color: "#04caa8"
+
+"BMC MIDM":
+  color: "#04caa8"
+
+"BMC Medicine":
+  color: "#04caa8"
+
+"BMC ARIC":
+  color: "#04caa8"
+
+"BMJ":
+  color: "#3f2e63"
+
+"PLOS DH":
+  color: "#f65606"
+
+"Antibiotics":
+  color: "rgba(85,0,0,0.75)"
+
+"CID":
+  color: "#006fb7"
+
+"JAC":
+  color: "#ea5b0c"
+
+"JAC AMR":
+  color: "#ea5b0c"
+
+"IEEE BHI":
+  color: "#14303e"
+
+"IJID":
+  color: "#0092d7"
+
+"Frontiers DH":
+  color: "#CAE87C"
