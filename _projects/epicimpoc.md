@@ -2,79 +2,92 @@
 layout: page
 title: EPiCIMPOC
 description: Clinical decision support systems (CDSS) to support antimicrobial therapy prescriptions.
-img: assets/img/12.jpg
+img: assets/resources/backgrounds/thumbnails/background-3.jpeg
 importance: 1
-category: work
+category: icl
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+<p align="justify">
+    EPIC IMPOC is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
+    to help doctors prescribe the most appropriate antibiotics. EPIC IMPOC is a collaborative project between 
+    medics and other heathcare professionals from the  National Institute for Health Research Health Protection 
+    Research Unit (NIHR HPRU) and engineers from CBIT.
+</p>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<p align="justify">
+    Healthcare professionals who diagnose and treat infections must often do so rapidly to prevent harm to 
+    their patients. Their prescribing decisions can be assisted by providing them with access to treatment 
+    recommendations, based on the most likely organism causing the infection (antimicrobial guidelines) and 
+    data on local antimicrobial resistance patterns. 
+</p>
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<p align="justify">
+    These decision support systems are mostly rule-based, providing easy-to-access policies or guidelines. A 
+    new project started by the Faculty of Engineering and Medicine kickstart scheme, and now funded by the 
+    NIHR Invention for Innovation scheme has taken this further, developing anintelligent decision support 
+    system. This system is capable of considering a greater number of variables and a more complicated number 
+    of scenarios than other systems and by using a machine learning  and artificial intelligence algorithms 
+    the system is able to continually learn from its previous experiences.
+</p>
+
+<ul>
+    <li>The ability to display data from NHS servers on mobile and tablet devices at the patient bedside.</li>
+    <li>Algorithms to provide advanced decision support for clinicians for optimised antimicrobial choices.</li>
+    <li>A population pharmacometric model to provide individualised antimicrobial dosing.</li>
+    <li>Patient engagement tools to facilitate shared decision making across complex health-care pathways</li>
+</ul>
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        <iframe 
+            class="rounded"
+            src="https://www.youtube.com/embed/32pTOcXszyg" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+                   picture-in-picture" allowfullscreen>
+        </iframe>    
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-6 mt-md-0">
+        <iframe 
+            class="rounded"
+            src="https://www.youtube.com/embed/U-Qb8E4NLuQ" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
+            picture-in-picture" allowfullscreen>
+        </iframe>
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
+<iframe 
+    width="560" height="315" 
+    src="https://www.youtube.com/embed/r4a4ZbbdlDA" 
+    title="YouTube video player" frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen>
+</iframe>
+
+<br><br>
+
+Further interesting links
+
+<ul>
+    <li><a href="https://www.imperial.ac.uk/events/101083/enhanced-personalised-and-integrated-care-for-infection-management-at-the-point-of-care/">Post in ICL events</a></li>
+    <li><a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/"> Post in CBIT newsletter</a></li>
+    <li><a href="https://www.imperial.ac.uk/enterprise/staff/techcelerate/participants/cohort-three/"> Techcelerate 3rd cohort</a></li>
+    <li><a href="https://fundingawards.nihr.ac.uk/award/II-LA-0214-20008">NIHR Award information</a></li>
+    <li><a href="https://clinicaltrials.gov/ProvidedDocs/37/NCT04013737/Prot_SAP_000.pdf"> Clinical Trial (pdf) </a></li>
+    <li><a href="https://ichgcp.net/clinical-trials-registry/NCT04013737"> Clinical trial (web) </a></li>
+    <li><a href="https://clinicaltrials.gov/ct2/show/NCT04013737"> Clinical trial </a></li>
+</ul>
 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+<!--
+<a href="https://fundingawards.nihr.ac.uk/award/II-LA-0214-20008" class="btn"> NIHR Award  </a>
+<a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/" class="btn"> ICL CBIT Post </a>
+<a href="https://clinicaltrials.gov/ProvidedDocs/37/NCT04013737/Prot_SAP_000.pdf" class="btn"> Clinical Trial (pdf) </a>
+<a href="https://ichgcp.net/clinical-trials-registry/NCT04013737" class="btn btn-outline-primary"> Clinical trial (web) </a>
 
+EPSRC pump priming award, as part of Imperial Antimicrobial Resistance Collaborative (ARC) EMBRACE project,
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+-->
+    

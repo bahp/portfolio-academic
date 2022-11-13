@@ -103,12 +103,12 @@
           Leonardo program, 2012. The aim of this one-month internship was to develop e-learning
           resources such as blog entries, ebooks and games.
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+#- title: Open Source Projects
+#  type: time_table
+#  contents:
+#    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+#      year: 2015-now
+#      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
 - title: Honors and Awards
   type: time_table
@@ -120,7 +120,6 @@
     - title: Featured innovative start-up at Tech Foresight 2040
       institution: Event discussing breakthrough technologies and their potential impact
       year: 2020
-
 
     - title: Imperial College Techcelerate Award (£30,000)
       institution: Entrepreneurial programme for postdocs to fast-track their business ideas
@@ -154,20 +153,20 @@
         - Machine Learning, Andrew Ng (Stanford)
         - Artificial Intelligence, Sebastian Thrun (Stanford)
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
+#- title: Academic Interests
+#  type: nested_list
+#  contents:
+#    - title: Topic 1.
+#      items:
+#        - Description 1.
+#        - Description 2.
+#    - title: Topic 2.
+#      items:
+#        - Description 1.
+#        - Description 2.
 
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Running, Hiking, Travel, ...

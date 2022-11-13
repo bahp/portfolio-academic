@@ -7,7 +7,7 @@ subtitle: Imperial College London
 
 profile:
   align: right
-  image: prof_pic_bahp.webp
+  image: prof_pic_bahp.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>B420 Bessemer building,</p>
