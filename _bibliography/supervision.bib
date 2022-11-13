@@ -1,81 +1,139 @@
 @article{agrim2021analysis,
-  abbr={M.Sc.},
+  abbr={M.Eng.},
   title={Analysis and Implementation of Data Imputation Techniques for Laboratory Data},
   author={Manchanda, Agrim and Georgiou, Pantelis and Hernandez, Bernard},
-  journal={},
+  journal={M.Eng. Electronic and Information Engineering},
   volume={},
   number={},
   pages={},
   year={2021},
-  publisher={},
+  publisher={Imperial College London},
   doi={},
   url={},
-  pdf={/resources/supervision/agrim/Agrim_Manchanda_project.pdf},
+  pdf={supervision/agrim/Agrim_Manchanda_project.pdf},
+  abstract={Missing data is a ubiquitous problem in the clinical domain which impacts the fidelity of
+    predictive modelling as many of the models rely on the completeness of data. Simple methods such
+    as mean or median imputation exist but they do not preserve the relations between variables. As such,
+    they do not capture and exploit feature correlations which exists between variables in laboratory data.
+    This project presents the design and implementation of an imputation framework which provides a robust
+    methodology to investigate two data imputation techniques, Machine Learning and Bayesian Networks, that
+    inherently exploit feature relations to infer missing data values from those that are observed. The
+    project carries out an empirical study on a real-life laboratory data set to compare the performance
+    of the aforementioned techniques against simple median imputation. The project concludes with an
+    evaluation of the studied techniques and recommendations on how the methods can be integrated as part of
+    an existing clinical decision support system.}
 }
 
 @article{oliver2021similarity,
-  abbr={M.Sc.},
+  abbr={M.Eng.},
   title={Patient similarity retrieval based on laboratory data cluster analysis and visualisation},
   author={Oliver, Stiff and Georgiou, Pantelis and Hernandez, Bernard},
-  journal={},
+  journal={M.Eng. Electronic and Information Engineering},
   volume={},
   number={},
   pages={},
   year={2021},
-  publisher={},
+  publisher={Imperial College London},
   doi={},
   url={},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/oss1017/Oliver_Stiff_project.pdf},
+  pdf={supervision/oss1017/Oliver_Stiff_project.pdf},
+  abstract={Large scale medical datasets and electronic health records have become increasingly
+    common, prompting the creation of clinical decision support systems which utilise data
+    to enhance health care. Tools have been designed to predict the likelihood of infection,
+    automate drug dosing and prescriptions, and evaluate a patient’s risk of death. Adoption, however,
+    remains low due to inherent issues, most notably, concern from clinicians regarding the quality of
+    recommendations and lack of transparency about how results are obtained.
+
+    This report covers the design and implementation of a system that uses laboratory test
+    data to retrieve and present information relevant to a current patient, allowing clinicians
+    to make quicker diagnoses and create tailored treatment plans based on past data. Thus,
+    using the increasing amount of healthcare data without impinging on clinicians’ diagnosis
+    and decision-making process and avoiding the typical objections to automated systems.
+
+    The proposed solution incorporates the results of dimensionality reduction and clustering
+    algorithms into an interactive, web-based similarity retrieval application, demonstrating
+    the potential of unsupervised-learning based tools in clinical settings.
+  }
 }
 
 @article{philippos2021ppg,
   abbr={M.Sc.},
   title={Model Development for Understanding the Relationship Between Photoplethysmography (PPG) and Physiological Parameters of Dengue Patients},
   author={Hadjimarkou, Philippos Arkis and Georgiou, Pantelis and Hernandez, Bernard},
-  journal={},
+  journal={M.Sc. in Applied Machine Learning},
   volume={},
   number={},
   pages={},
   year={2021},
-  publisher={},
+  publisher={Imperial College London},
   doi={},
   url={},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/ph720/Hadjimarkou_Philippos_Arkis_poster.pdf},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/ph720/Hadjimarkou_Philippos_Arkis_project.pdf},
-  poster={}
+  poster={supervision/ph720/Hadjimarkou_Philippos_Arkis_Poster.pdf},
+  pdf={supervision/ph720/Hadjimarkou_Philippos_Arkis_project.pdf},
+  abstract={Dengue is a mosquito-born virus that can cause a range of complications to those affected;
+    ranging from skin rashes to even death. With no effective treatment currently available and
+    vaccines that can have serious side effects, the virus is a major risk to human lives. Detecting
+    and predicting a severe case of Dengue can be the turning point in the Dengue epidemic management,
+    increasing survival rates of patients experiencing Dengue shock and improving healthcare
+    facility processes. Using wearable photoplethysmography devices, which are cost effective and
+    user-friendly, patients’ vital parameters can be continuously monitored and analysed, allowing
+    for the recognition of patterns that may lead to the development of Dengue detection and prediction
+    algorithms. This study will focus on the utilisation of photoplethysmography signals for the exploration,
+    design and implementation of supervised machine learning models for the classification of Dengue patients’
+    records, based on clinically recorded physiological parameters. Signal and data processing techniques
+    will be utilised, leading up to the definition of evaluative experiments and model development. From
+    design and implementation to testing and evaluation, we will be presenting our findings in the following
+    exploratory report, examining a recently formed PPG dataset.
+  }
 }
 
 @article{anh2820applied,
   abbr={M.Sc.},
   title={Application of machine learning to inform clinical management of infectious diseases in Vietnam},
   author={Nguyen, Anh and Georgiou, Pantelis and Hernandez, Bernard},
-  journal={},
+  journal={M.Sc. in Applied Machine Learning},
   volume={},
   number={},
   pages={},
   year={2021},
-  publisher={},
+  publisher={Imperial College London},
   doi={},
   url={},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/anh2820/Nguyen_Anh_poster.pdf},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/anh2820/Nguyen_Anh_project.pdf},
-  poster={}
+  poster={supervision/an2820/Nguyen_Anh_Poster.pdf},
+  pdf={supervision/an2820/Nguyen_Anh_project.pdf},
+  abstract={Throughout this project and thesis, a Severe Dengue Predictor was developed and
+    deployed on a web-based application. The model uses LSTM as the basis for the neural
+    network architecture because of its ability to handle time-series data, especially clinical
+    data, which was proven several times through different researches. From the data set
+    provided by OUCRU, a small number of features were selected based on correlation
+    test and WHO Severe Dengue guidelines: vomiting, body temperature, respiratory rate,
+    haemoglobin, haematocrit percent, platelet count, bleeding vaginal, bleeding mucosal, and
+    abdominal pain.
+
+    The neural network architecture has had it hyper-parameter tuned before beginning the
+    training process. The training result was validating through K-Fold cross-validation process,
+    which ensures that biased result is minimal. With models’ performance ranging from
+    adequate to excellent, a web-based application has been developed to deploy those train
+    models. A random simulation for the application is also shown in this thesis. Through
+    those simulation, the performance of this machine learning application is verified to be
+    adequate in real-life scenarios.
+  }
 }
 
 @article{gz2202021nlp,
   abbr={M.Sc.},
   title={Natural language processing for characterization of computerize tomography and x-ray text reports},
   author={George, Zhao and Xing, Yuting and Georgiou, Pantelis and Hernandez, Bernard},
-  journal={},
+  journal={M.Sc. Applied Machine Learning program},
   volume={},
   number={},
   pages={},
   year={2021},
-  publisher={},
+  publisher={Imperial College London},
   doi={},
   url={},
-  pdf={https://bahp.github.io/portfolio-academic/resources/supervision/gz220/Zhao_George_project.pdf},
-  poster={https://bahp.github.io/portfolio-academic/resources/supervision/gz220/Zhao_George_poster.pdf},
+  pdf={supervision/gz220/Zhao_George_project.pdf},
+  poster={supervision/gz220/Zhao_George_poster.pdf},
   abstract={Named entity recognition (NER) systems are commonly build using supervised methods
       which requires corpora manually annotated with named entities. However, manual
       annotation is very expensive and laborious. In this paper, a novel method is proposed
@@ -86,5 +144,63 @@
       classifier for NER tasks.}
 }
 
+@article{jw2202022signal,
+  abbr={M.Sc.},
+  title={Signal Analysis and Classification of Photoplethysmography (PPG) Waveforms for Predicting Clinical Outcomes},
+  author={Jingkai, Wang and Georgiou, Pantelis and Hernandez, Bernard},
+  journal={M.Sc. Applied Machine Learning program},
+  volume={},
+  number={},
+  pages={},
+  year={2022},
+  publisher={Imperial College London},
+  doi={},
+  url={},
+  pdf={supervision/jw5920/Wang_Jingkai_project.pdf},
+  poster={supervision/jw5920/Wang_Jingkai_Poster.pdf},
+  abstract={The photoplethysmogram (PPG) is a signal that measures pulsatile volume of blood in
+    tissue and is collected by portable, non-invasive pulse oximeters. PPG signals can be used to
+    predict the severity of dengue patients during dengue epidemics. However, raw PPG waveforms are
+    susceptible to artifacts and noise. The classification of PPG signal quality is therefore crucial.
+    In this work, PPG waveforms are classified into three categories according to their quality, and
+    seven signal quality indices (SQIs) are applied to extract the features of each segment of PPG.
+    At the same time, the spectrogram of each PPG sample is calculated as another feature. With the
+    help of k-means clustering on the SQI features, each sample is labelled with a signal quality as
+    ground truth. Apply an autoencoder to reduce the dimension of SQI features to observe the data
+    samples in 2-D, and compare the PCA method. Using the above PPG samples and labels as dataset,
+    apply decision tree, random forest, and AdaBoost classifiers on raw PPG data or SQI features. Build
+    a convolutional neural networks (CNN) model for 2-D spectrograms to learn the training set data,
+    and predict the test set data. Experimental results show that: SQIs are effective PPG features that
+    facilitate quality labelling and dimensionality reduction. The spectrogram is also an effective PPG
+    feature, and the CNN has good stability, good flexibility, high accuracy and fast speed to be an ideal
+    PPG signal quality classification method.
+  }
+}
 
-
+@article{yj5202022susceptibility,
+  abbr={M.Sc.},
+  title={Susceptibility Data Analysis and Visualization for Surveillance in Antimicrobial Resistance},
+  author={Yujia, Jin and Georgiou, Pantelis and Hernandez, Bernard},
+  journal={M.Sc. Applied Machine Learning program},
+  volume={},
+  number={},
+  pages={},
+  year={2022},
+  publisher={Imperial College London},
+  doi={},
+  url={},
+  pdf={supervision/yj520/Jin_Yujia_project.pdf},
+  poster={supervision/yj520/Jin_Yujia_Poster.pdf},
+  abstract={In the early 20th century, the discovery of various antimicrobials solved the medical
+    problem of death caused by infection with pathogenic microorganisms. With the large-scale use of
+    antimicrobials, hospitals have found that during the use of antimicrobials, some microbes gradually
+    develop resistance, making the antimicrobials ineffective. Each year, the number of resistant
+    pathogenic microorganisms is increasing rapidly, but the number of new antimicrobials is not enough.
+    If unchecked, address and deal with the Antimicrobial Resistance (AMR) problem, the annual number of
+    deaths due to AMR will increase to 10 million by 2050. One of the most important causes of the AMR
+    problem is the inap- propriate and excessive use of antimicrobials by doctors and pharmacists.
+    Therefore, this project builds an AMR surveillance web page system that can interact with users.
+    The system provides doctors with clear and accurate AMR information and recommendations based on the
+    collection, processing, analysis, and visualization of recorded susceptibility test data.
+  }
+}

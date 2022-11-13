@@ -7,6 +7,5 @@ github_repos:
   - bahp/datablend
   - bahp/python-spare-code
   - bahp/js-spare-code
-  - bahp/django-epicimpoc-microbiology
-  - bahp/django-epicimpoc-pathology
-  - bahp/django-epicimpoc-admissions
+  - bahp/flipbooks
+  - bahp/vital-oucru-clinical
