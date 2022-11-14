@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Placement at University of Cape Town! 
+title: HPRU team return from three week placement at University of Cape Town
 date: 2016-06-18 15:59:00-0400
 inline: false
 tags: collaboration

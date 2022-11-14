@@ -14,7 +14,7 @@
   contents:
     - title: PhD in Computer Science and Healthcare
       institution: Imperial College London, London, UK
-      year: 2019
+      year: 2015-2019
       description:
         - title: Thesis
           contents:
@@ -22,7 +22,6 @@
             - Centre for Bio-Inspired Technology, EEE
             - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
         - title: Activities & Awards
-          type: nested-list
           contents:
             - Participation in the Imperial Festival, 2016-2017.
             - Research placement at UCT, Cape Town, South Africa, 2016.
@@ -113,7 +112,7 @@
 - title: Honors and Awards
   type: time_table
   contents:
-    - title: Imperial College COVID-19 Response Fund (100,000£)
+    - title: Imperial College COVID-19 Response Fund (£100,000)
       institution: Granted by the "Imperial College London"
       year: 2020
 
@@ -132,6 +131,10 @@
     - title: ARC Best Poster Award
       institution: Awarded by the "Antimicrobial Research Collaborative"
       year: 2016
+
+    - title: Antimicrobial Resistance Diagnostics Competition - AMR DxC
+      institution: Awarded by the "University of Edinburgh"
+      yeaer: 2015
 
     - title: Young Researchers Best Thesis Award (£1,000)
       institution: Awarded by the "Rey Juan Carlos University Social Council"
@@ -153,6 +156,27 @@
         - Machine Learning, Andrew Ng (Stanford)
         - Artificial Intelligence, Sebastian Thrun (Stanford)
 
+- title: Outreach
+  type: time_table
+  contents:
+    - title: Imperial College Festival
+      institution: Granted by the "Imperial College London"
+      year: 2016
+
+#- title: Publications
+#  See the Publications page for a full list.
+
+- title: Publications
+  type: map
+  contents:
+      - name:
+        value: See the <a href="/portfolio-academic/publications/journals/">journals</a> or
+               <a href="/portfolio-academic/publications/conferences/">conference</a> pages
+               for a full list.
+
+#- title: Conferences
+#  See the Conferences page for a full list.
+
 #- title: Academic Interests
 #  type: nested_list
 #  contents:
@@ -165,6 +189,21 @@
 #        - Description 1.
 #        - Description 2.
 
+- title: Technical Skills
+  type: map
+  contents:
+    - name: Industry knowledge
+      value: Machine Learning, Data Manipulation, Clinical Decision Support Systems
+    - name: Professional skills
+      value: Project Management, Full-stack developer, Software Testing, Version Control Systems
+    - name: Languages
+      value: Python (highly skilled), Matlab, R, Java, C, C++, Javascript, CSS, HTML, PL/SQL, Latex
+    - name: Python
+      value: pandas, numpy, scipy, scikit-learn, keras, tensorflow, matplotlib, seaborn, plotly, flask, django, celery, ...
+    - name: Technologies
+      value: CI/CD - Git, Docker, Travis, Codecov, ReadTheDocs, AWS, Heroku, APIs
+    - name: Operating Systems
+      value: Linux, Windows
 
 - title: Other Interests
   type: list
