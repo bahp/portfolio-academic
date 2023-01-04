@@ -7,15 +7,27 @@ importance: 3
 category: icl
 ---
 
-<a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/centre-for-bio-inspired-technology/CBIT_Annual_Report_2014.pdf">2014</a>
-<a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/centre-for-bio-inspired-technology/CBIT_Annual_Report_2015.pdf">2015</a>
-<a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/centre-for-bio-inspired-technology/CBIT_Annual_Report_2016.pdf">2016</a>
-<a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/centre-for-bio-inspired-technology/CBIT_Annual_Report_2017.pdf">2017</a>
-<a href="https://www.imperial.ac.uk/media/imperial-college/research-centres-and-groups/centre-for-bio-inspired-technology/CBIT_Annual_Report_2018.pdf">2018</a>
+<p align="justify">
+    The aim of this project is improving upon the initial rule-based model and providing 
+    personalised decision support using individual level data specifically for patients in 
+    intensive care through the use of Case-Based Reasoning. (the ENIAPP project)
+</p>
+<p align="justify">
+    This project involved 18 months of work including: stakeholder requirements gathering; workflow 
+    modelling; medical decision making analysis from critical care and infection specialists; mapping of 
+    existing and required information systems; and finally, an adaptive software development process. 
+    Clinico-physiological and demographic parameters influencing infection management were categorised and 
+    integrated into the case-based reasoning algorithm, and definitions of antimicrobial regime success and 
+    failure were developed.
+</p>
 
-Enhanced antibiotic prescribing through a CBR-based Imperial Antibiotic Prescribing Application
-ENIAPP)
-
+<p align="justify">
+    The final product, ENhanced Imperial Antibiotic Prescribing Policy app (ENIAPP) has been developed as an 
+    mHealth application for use on mobile tablets with information governance assured through use of the App 
+    as a thin client, and all communication between the App and the central servers is within secure hospital 
+    firewalls. Pilot data on 50 clinical cases showed 100% accurate retrieval of patient demographic, clinical 
+    and  pathology data from disparate NHS information systems.
+</p>
 
 <iframe class="rounded" 
     width="560" height="315" 

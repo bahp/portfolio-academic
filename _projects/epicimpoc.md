@@ -7,6 +7,12 @@ importance: 1
 category: icl
 ---
 
+<a href="https://bernardhernandezpe.wixsite.com/epicimpoc/"
+   class="" target="_blank">
+   Official EPiC IMPOC site
+   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+</a>
+
 <p align="justify">
     EPIC IMPOC is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
     to help doctors prescribe the most appropriate antibiotics. EPIC IMPOC is a collaborative project between 
@@ -47,6 +53,9 @@ category: icl
                    picture-in-picture" allowfullscreen>
         </iframe>    
     </div>
+</div>
+
+<div class="row">
     <div class="col-sm mt-6 mt-md-0">
         <iframe 
             class="rounded"
@@ -58,17 +67,21 @@ category: icl
     </div>
 </div>
 
-<iframe 
-    width="560" height="315" 
-    src="https://www.youtube.com/embed/r4a4ZbbdlDA" 
-    title="YouTube video player" frameborder="0" 
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-    allowfullscreen>
-</iframe>
+<div class="row">
+    <div class="col-sm mt-6 mt-md-0">
+        <iframe 
+            class="rounded"
+            src="https://www.youtube.com/embed/r4a4ZbbdlDA" 
+            title="YouTube video player" frameborder="0" 
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>
+    </div>
+</div>
 
 <br><br>
 
-Further interesting links
+Further interesting links...
 
 <ul>
     <li><a href="https://www.imperial.ac.uk/events/101083/enhanced-personalised-and-integrated-care-for-infection-management-at-the-point-of-care/">Post in ICL events</a></li>

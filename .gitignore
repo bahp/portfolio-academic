@@ -9,3 +9,6 @@ _site
 Gemfile.lock
 vendor
 
+/assets/pdf/conferences/2020/wohc/hernandez2020how/video.mp4
+/assets/pdf/supervision/2020/covid-tracking/video-system.mp4
+/assets/pdf/supervision/2020/covid-tracking/video-time-slider.mp4

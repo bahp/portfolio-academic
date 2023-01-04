@@ -7,8 +7,11 @@ importance: 2
 category: icl
 ---
 
-
-<a href="http://vital.oucru.org/"> Official VITAL site </a>
+<a href="http://vital.oucru.org/"
+   class="" target="_blank">
+   Official VITAL site
+   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+</a>
 
 <p align="justify;">
     Vietnam ICU Translational Applications Laboratory (VITAL) is a unique multidisciplinary project, 

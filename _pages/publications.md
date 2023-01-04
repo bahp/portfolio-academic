@@ -13,5 +13,5 @@ children:
       permalink: /publications/theses/
     - title: divider
     - title: other
-      permalink: /projects/
+      permalink: /publications/other
 ---
