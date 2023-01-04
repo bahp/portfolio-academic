@@ -1,6 +1,6 @@
 ---
 layout: page
-title: abcd4
+title: abc4d
 description: Advanced bolus calculator for diabetes (ABC4D) based on the Case-based Reasoning (CBR) methodology.
 
 

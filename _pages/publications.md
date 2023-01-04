@@ -9,6 +9,8 @@ children:
       permalink: /publications/journals/
     - title: conferences
       permalink: /publications/conferences/
+    - title: theses
+      permalink: /publications/theses/
     - title: divider
     - title: other
       permalink: /projects/
