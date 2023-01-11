@@ -3,7 +3,7 @@ layout: post
 title: Featured innovative start-up at TechForesight 2040!
 date: 2020-09-22 15:59:00-0400
 inline: false
-tags: award epicimpoc
+tags: award epicimpoc techforesight
 categories: award
 ---
 
@@ -15,10 +15,21 @@ Original source:
 
 
 <p align="justify">
-    Tech Foresight 2040: Intentional Creations, a virtual conference for tech-driven businesses, took place in 
-    June. This page shares the insights gathered from cutting-edge research insights from world-leading academics, 
-    we explored the topic across three different themes: Moral Machines, Meta-Motivations and Malleable Matter.
+    Imperial Tech Foresight is a futures practice at Imperial College London. We develop foresight thinking that 
+    span the possible, probable and plausible, researching the fringes of disruption and breakthrough technologies 
+    assessing their potential impact on humans and society at large. We are innately curious and deeply questioning, 
+    exploring underlying drivers and shifts in the world of scientific disruption. We work with partners across 
+    industries and sectors to broaden our thinking. The practice uses different methods, developed in-house, to make 
+    the future come alive for their partners, through bespoke foresight programmes, inspirational thought-leadership 
+    pieces and stimulating events.
 </p>
+
+<p align="justify">
+    Tech Foresight 2040: Intentional Creations was a virtual conference for tech-driven businesses, which took 
+    place in June 2020. This conference shared the insights gathered from cutting-edge research world-leading 
+    academics and explored the topic across three different themes: Moral Machines, Meta-Motivations and
+    Malleable Matter.
+</p>   
 
 <iframe class="rounded" 
     width="560" height="315" 

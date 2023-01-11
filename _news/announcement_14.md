@@ -10,4 +10,3 @@ categories: conference
 <div class="publications">
    {% bibliography -f conferences -q @*[key=hernandez2014pydata]* %}
 </div>
-

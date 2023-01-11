@@ -3,8 +3,8 @@ layout: post
 title: Accepted to participate in the ICL-UCT Global Health Fellows Program!
 date: 2016-05-12 15:59:00-0400
 inline: false
-tags: collaboration
-categories: 
+tags: award collaboration uct icl 
+categories: award
 ---
 
 Original source: 

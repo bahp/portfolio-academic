@@ -13,12 +13,6 @@ Original source:
    <i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
 
-<div class="row mt-3">
-    <div class="col-sm-12 col-lg-8">
-        {% include figure.html path="https://www.imperial.ac.uk/news/image/mainnews2012/34096.jpg" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-
 University of Cape Town and Imperial College London: Global Health Fellows Programme 2016
 
 <p align="justify">
@@ -54,3 +48,8 @@ University of Cape Town and Imperial College London: Global Health Fellows Progr
     collaborate in the near future and develop research together. 
 </p>
 
+<div class="row mt-3">
+    <div class="col-sm-12 col-lg-12">
+        {% include figure.html path="https://www.imperial.ac.uk/news/image/mainnews2012/34096.jpg" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
