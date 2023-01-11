@@ -22,6 +22,15 @@ Presented at:
     <li>Great Exhibition Road Festival (March 2022, London)</li>
 </ul>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/resources/zine/zine-01.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="assets/resources/zine/zine-06.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 <a href="https://bahp.github.io/flipbooks/bookshelves/bs1/index.html" class="btn">
     See Booklet
 </a>

@@ -1,3 +1,5 @@
+Don't show
+
 ---
 layout: post
 title: A long announcement with details

@@ -1,7 +1,13 @@
 ---
 layout: post
+title: Presentation (poster) at ICID in Kuala Lumpur.
 date: 2022-11-15 15:59:00-0400
-inline: true
+inline: false
+tags: poster vital dcat
+categories: conference
 ---
 
-Invited speaker at ISID in Kuala Lumpur!
+<div class="publications">
+   {% bibliography -f conferences -q @*[key=hernandez2022human]* %}
+</div>
+

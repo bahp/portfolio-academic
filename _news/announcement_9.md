@@ -1,7 +1,14 @@
 ---
 layout: post
+title: Presentation (poster) at ICID in Buenos Aires.
 date: 2018-03-15 15:59:00-0400
-inline: true
+inline: false
+tags: poster epicimpoc
+categories: conference
 ---
 
-Poster accepted at ISID in Buenos Aires!
+<div class="publications">
+   {% bibliography -f conferences -q @*[key=hernandez2018enhancing]* %}
+</div>
+
+

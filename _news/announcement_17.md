@@ -3,6 +3,8 @@ layout: post
 title: Bernard Hernandez to present at the International Conference in Health Informatics 2017
 date: 2016-12-05 15:59:00-0400
 inline: false
+tags: 
+categories: conference
 ---
 
 Original source: 
