@@ -18,9 +18,10 @@
       description:
         - title: Thesis
           contents:
-            - Pantelis Georgiou
+            - Pantelis Georgiou<br>
             - Centre for Bio-Inspired Technology, EEE
             - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
+              <a href="https://spiral.imperial.ac.uk/handle/10044/1/73000" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
         - title: Activities & Awards
           contents:
             - Participation in the Imperial Festival, 2016-2017.
@@ -38,6 +39,7 @@
             - Björkman, Mårten
             - School of Computer Science and Communication
             - Multi-View Object Recognition and Classification. Graph-Based Representation of Visual Features and Structured Learning and Prediction.
+              <a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A703166&dswid=8110" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
 
     - title: B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)
       institution: Rey Juan Carlos University, Madrid, Spain
@@ -48,6 +50,7 @@
             - Inmaculada Mora
             - Signal Theory and Communications
             - Algorithms for Detection and Description of Visual Features for Object Recognition. Analysis and Applications.
+              <a href="https://bahp.github.io/portfolio/docs/static/pdfs/bahp-thesis-urjc.pdf" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
         - title: Activities & Awards
           contents:
             - Young researcher's best thesis award, 2013.
@@ -161,7 +164,13 @@
   contents:
     - title: Imperial College Festival
       institution: Granted by the "Imperial College London"
+      year: 2017
+    - title: Imperial College Festival
+      institution: Granted by the "Imperial College London"
       year: 2016
+    - title: Imperial College Festival
+      institution: Granted by the "Imperial College London"
+      year: 2015
 
 #- title: Publications
 #  See the Publications page for a full list.

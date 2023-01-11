@@ -43,8 +43,8 @@ International Conference in Health Informatics 2017
     addressing in order to further promote ICT in healthcare. In the case of medical rehabilitation 
     and assistive technology, research in and applications of ICT have contributed greatly to the 
     enhancement of quality of life and full integration of all citizens into society.
-    
-    <span style="font-size: 0.875em; letter-spacing: 0.1px;">&nbsp;</span></p>
+</p>
+
 <p align="justify">
     The conference will be held from 21-23 February 2017 in Porto, Portugal.
 </p>
