@@ -570,10 +570,11 @@ Since then, it got a full re-write of the styles and many additional cool featur
 - **projects/dcat:** Complete with a figure/video of the system.
 - **projects/geo:** Create project entry for Oliver Stiff geo-location work?
 - **projects/ls2d:** Create entry for LS2D app?
+- **projects/vital:** Include group picture?
 - **cv/courses:** Include those from ICL and NHS?
 - **cv/awards:** Include those of EPIC IMPOC, VITAL, CAMO and CAMO-NET? Note that techcelerate is salary + 10000£
 - **publicatons/journals:** Include (i) latent space representation in FDH (ii) Mapping patient pathways in BMC MIDM 
 (iii) AI perspectives in low- and middle-income countries in WHO bulletin and (iv) Stefan wearable ppg analysis.
-- **publications/conferences:** Include videos with presentations?
+- **publications/conferences:** Include videos with presentations? (i) include chanh presentation slides?
   
 [EMBRACE ARC](https://www.imperial.ac.uk/events/102687/embrace-conference-2016-in-antimicrobial-resistance/)
