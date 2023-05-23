@@ -91,6 +91,7 @@ Further interesting links...
     <li><a href="https://clinicaltrials.gov/ProvidedDocs/37/NCT04013737/Prot_SAP_000.pdf"> Clinical Trial (pdf) </a></li>
     <li><a href="https://ichgcp.net/clinical-trials-registry/NCT04013737"> Clinical trial (web) </a></li>
     <li><a href="https://clinicaltrials.gov/ct2/show/NCT04013737"> Clinical trial </a></li>
+    <li><a href="https://pharmaceutical-journal.com/article/feature/prepare-to-say-hi-to-your-virtual-ai-assistant">The Pharmaceutical Journal</a></li>
 </ul>
 
 
