@@ -1,0 +1,79 @@
+\documentclass[conference,final,9pt,twocolumn,a4paper]{IEEEtran}
+
+\usepackage{cite}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{textcomp}
+\usepackage{amsmath}
+\usepackage{multirow}
+\usepackage{caption}
+\usepackage{subcaption}
+
+\setlength{\textfloatsep}{2pt plus 2pt minus 2pt}
+
+\begin{document}
+
+\title{Live Demonstrator for the Bio-inspired Artificial Pancreas}
+
+
+\authorblockN{\small Pau Herrero$^1$, Mohamed El Sharkawy$^1$, Peter Pesl$^1$, Monika Reddy$^2$, Nick Oliver$^2$, Des Johnston$^2$, Chris Toumazou$^1$, Pantelis Georgiou$^1$, Osama Mahmoud Awara, Lorraine Choi, Yu Lee, Jian Lim, Mohamed Mahamad Yusof, Aaron Sheah, Liyangyi Yu}
+\authorblockA{\small $^1$Centre for Bio-Inspired Technology, Imperial College London, SW7 2AZ, UK. $^2$Imperial College Healthcare NHS Trust, W6 8RF, UK \\
+Email: pherrero@imperial.ac.uk}}
+
+\maketitle
+
+
+\begin{abstract}
+
+Diabetes is a condition in which there is high blood glucose level over a prolonged period. It has always been one of the most common chronic diseases around the globe. A closed-loop system, namely the Bio-inspired Artificial Pancreas (BiAP), is created to regulate blood glucose level of patients with type 1 diabetes mellitus (T1DM). In order to showcase the BiAP to other potential users, medical professionals, researchers as well as children, a user-friendly and interactive demonstration system is built. 
+
+\end{abstract} 
+
+\section{Introduction}
+
+The Bio-inspired Artificial Pancreas (BiAP) operates an algorithm that is inspired by the secretion of insulin by beta cells in pancreas. The system consists of an external controller, together with a glucose sensor and insulin pump that are implanted in the T1DM patient’s body. The BiAP controller %, as shown in Figure \ref{fig:biap}, 
+is implemented on a microchip within a handheld device. The low power consumption device decides the insulin delivery, as well as allows user to calibrate the algorithm according to his activities. Glucose and insulin levels will be sent to an Android smartphone via a Bluetooth embedded unit, which streams data to a secure server over the internet. This helps medical practitioners to monitor diabetic patients through a web-based telemonitoring system (biapTEL) remotely.
+
+%\begin{figure}[h]
+%    \centerline{\includegraphics[width=0.3\textwidth]{biap}}
+%    \caption{The Bio-inspired Artificial Pancreas (BiAP)}
+%    \label{fig:biap}
+%\end{figure}
+
+
+\section{Demonstration}
+
+A demonstration system is designed to showcase the BiAP controller, and it is divided into three modules: the \textit{in silico} patient, the BiAP embedded device and the telemonitoring system. The overview of system is displayed in Figure \ref{fig:demo_sys}. 
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.4\textwidth]{proposed_sys}}
+    \caption{Modular Overview of Demonstrator}
+    \label{fig:demo_sys}
+\end{figure} 
+
+Portraying food intake as meals would be a more relatable representative to the demonstration audience. A meal library with 16 various dishes is implemented. Users can feed the \textit{in silico} subject with meals from the food menu, and MATLAB could assign parameters of the meal accordingly. This makes the system more desirable as it is easier to understand the concepts behind BiAP.
+
+The demonstrator has a front-end interface on iPad, which displays the glucose and insulin levels whilst allowing users to feed the T1DM patient Yoda wirelessly. Users could choose from the library of 16 meals, as well as deciding the serving size and feeding time. All functionalities and information for the audience are displayed on a one-screen layout as shown in \ref{fig:ipad}.
+
+The back-end MATLAB simulator represents the T1DM patient (\textit{in silico} subject) with implanted glucose sensor and insulin pump. It calculates how the patient’s body responds to various meals and exercise intensity. The controller would then instruct the \textit{in silico} insulin pump to deliver an appropriate dose to the patient. To simplify the demonstration procedures, the meal announcement is automated from the TIDM simulator to the BiAP controller.
+
+The communication between MATLAB and iPad is a hybrid connection using both internet and Bluetooth. As the Bluetooth profiles of MATLAB and iPad are incompatible, a Bluetooth serial device (Adafruit Bluefruit LE friend) has to be plugged into the laptop that runs the MATLAB simulator in order to translate the messages between the two devices. Internet will be the prioritised connection, but Bluetooth will be used if internet connection is not available. If both connection fails, MATLAB will continue with the simulation without receiving new meals and returning data to iPad. 
+
+As the BiAP controller has no internet module, an Android device is required to stream data to the telemonitoring system. Also, the Android smartphone would remind user to turn on the exercise mode on the controller. This functionality is implemented by using the accelerometer in smartphones.
+
+After sending glucose and insulin levels to the web server, medical professionals would be able to monitor patient's conditions remotely online. Warnings and alerts will be announced when urgent patient conditions are detected, which allows practitioners to react and respond to situations immediately. The telemonitoring system (Android app and Web app) will be included in the real BiAP system.
+
+
+
+\begin{figure}[h]
+    \centerline{\includegraphics[width=0.3\textwidth]{ipad}}
+    \caption{Screenshot of iPad App Layout}
+    \label{fig:ipad}
+\end{figure}
+
+\bibliographystyle{ieeetr}
+\bibliography{references}
+
+\end{document}
+
+

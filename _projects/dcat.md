@@ -5,8 +5,25 @@ description: Clinical application tool to support dengue management in low and m
 img: assets/resources/backgrounds/thumbnails/background-1.jpeg
 importance: 3
 category: icl
----
 
+bibliography: 2018-12-22-distill.bib
+
+authors:
+  - name: Albert Einstein
+    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
+    affiliations:
+      name: IAS, Princeton
+  - name: Boris Podolsky
+    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
+    affiliations:
+      name: IAS, Princeton
+  - name: Nathan Rosen
+    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
+    affiliations:
+      name: IAS, Princeton
+      
+articles: []
+---
 
 <p align="justify">
     Dengue epidemics can rapidly increase demand in healthcare services across many endemic settings.
@@ -36,3 +53,15 @@ category: icl
     model performance. If successful, the CDSS will be implemented and deployed to evaluate its clinical
     utility.
 </p>
+
+<br>
+
+#### Publications
+
+<div class="publications">
+   {% bibliography -f papers -q @*[key=nguyen2023mapping]* %}
+   {% bibliography -f conferences -q @*[key=hernandez2022human]* %}
+   {% bibliography -f papers -q @*[key=ming2022diagnosis]* %}
+   {% bibliography -f papers -q @*[key=ming2022applied]* %}
+</div>
+

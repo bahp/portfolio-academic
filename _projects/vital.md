@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VITAL
-description: Clinical decision support systems (CDSS) to support dengue management in limited resource settings.
+description: Clinical decision support system (CDSS) to support dengue management in limited resource settings.
 img: assets/resources/backgrounds/thumbnails/background-4.jpeg
 importance: 2
 category: icl
@@ -12,6 +12,8 @@ category: icl
    Official VITAL site
    <i class="fa fa-sm fa-link" aria-hidden="true"></i>
 </a>
+
+<b>Role:</b> Postdoctoral researcher
 
 <p align="justify;">
     Vietnam ICU Translational Applications Laboratory (VITAL) is a unique multidisciplinary project, 
@@ -48,3 +50,16 @@ be used to define physiology and inform clinical decision making in the treatmen
 the commonest life-threatening infectious diseases (dengue shock, septic shock, tetanus,
 TB meningitis).
 -->
+
+#### Publications
+    
+<div class="publications">
+   {% bibliography -f papers -q @*[key=10.3389/fdgth.2023.1057467]* %}
+   {% bibliography -f papers -q @*[key=nguyen2023mapping]* %}
+   {% bibliography -f conferences -q @*[key=stefan2022wearable]* %}
+   {% bibliography -f conferences -q @*[key=hernandez2022human]* %}
+   {% bibliography -f conferences -q @*[key=ming2022development]* %}
+   {% bibliography -f conferences -q @*[key=hernandez2022latent]* %}
+   {% bibliography -f papers -q @*[key=ming2022diagnosis]* %}
+   {% bibliography -f papers -q @*[key=ming2022applied]* %}
+</div>

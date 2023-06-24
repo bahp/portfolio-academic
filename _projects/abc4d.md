@@ -52,6 +52,40 @@ category: icl
     </div>
 </div>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm">
+        {% include figure.html path="assets/resources/abc4d/img-1.png" 
+        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm pl-1 pr-1">
+        {% include figure.html path="assets/resources/abc4d/yoda-demo-2.png" 
+        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm">
+        {% include figure.html path="assets/resources/abc4d/yoda-demo-1.png" 
+        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<!--
 <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/metabolic/abc4d/" class="btn">
     See Post
 </a>
+-->
+
+
+<br>
+
+#### Posts
+
+<ul>
+    <li>Featured in the <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/metabolic/abc4d/">CBIT newsletter</a></li>
+</ul>
+
+<br>
+
+#### Publications
+
+<div class="publications">
+   {% bibliography -f conferences -q @*[key=herrero2016demo]* %}
+</div>
