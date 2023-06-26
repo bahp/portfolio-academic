@@ -195,11 +195,11 @@ toc:
 
 
 <ul>
+    <li>Featured in <a href="https://pharmaceutical-journal.com/article/feature/prepare-to-say-hi-to-your-virtual-ai-assistant">The Pharmaceutical Journal</a></li>
+    <li>Featured innovative start-up at <a href="https://imperialtechforesight.com/20-futures/tf2040/meta-motivations/">TechForesight 2040</a></li>
+    <li>Included within <a href="https://www.imperial.ac.uk/enterprise/staff/techcelerate/participants/cohort-three/"> Techcelerate's 3rd cohort</a> entrepreneurial programme</li>
     <li>Featured in an <a href="https://www.imperial.ac.uk/events/101083/enhanced-personalised-and-integrated-care-for-infection-management-at-the-point-of-care/">ICL seminar</a></li>
     <li>Featured in the <a href="https://www.imperial.ac.uk/bio-inspired-technology/research/infection-technology/epic-impoc/">CBIT newsletter</a></li>
-    <li>Included within <a href="https://www.imperial.ac.uk/enterprise/staff/techcelerate/participants/cohort-three/"> Techcelerate's 3rd cohort</a> entrepreneurial programme</li>
-    <li>Featured innovative start-up at <a href="https://imperialtechforesight.com/20-futures/tf2040/meta-motivations/">TechForesight 2040</a></li>
-    <li>Featured in <a href="https://pharmaceutical-journal.com/article/feature/prepare-to-say-hi-to-your-virtual-ai-assistant">The Pharmaceutical Journal</a></li>
     <li>Information of the <a href="https://fundingawards.nihr.ac.uk/award/II-LA-0214-20008">NIHR funding award </a></li>
     <li>Clinical trial registration in clinicaltrials.gov <a href="https://clinicaltrials.gov/ProvidedDocs/37/NCT04013737/Prot_SAP_000.pdf"> (pdf) </a></li>
     <li>Clinical trial registration in clinicaltrials.gov <a href="https://clinicaltrials.gov/ct2/show/NCT04013737"> (web) </a></li>
