@@ -7,6 +7,8 @@ importance: 3
 category: icl
 ---
 
+<b>Role:</b> Consultant or advisor on AI/ML in health care.
+
 <p align="justify">
     The aim of the project is to create a small, accessible booklet in a zine format 
     illustrating the key ideas behind the use of data, AI, decision-support for dengue 

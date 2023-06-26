@@ -5,25 +5,9 @@ description: Clinical application tool to support dengue management in low and m
 img: assets/resources/backgrounds/thumbnails/background-1.jpeg
 importance: 3
 category: icl
-
-bibliography: 2018-12-22-distill.bib
-
-authors:
-  - name: Albert Einstein
-    url: "https://en.wikipedia.org/wiki/Albert_Einstein"
-    affiliations:
-      name: IAS, Princeton
-  - name: Boris Podolsky
-    url: "https://en.wikipedia.org/wiki/Boris_Podolsky"
-    affiliations:
-      name: IAS, Princeton
-  - name: Nathan Rosen
-    url: "https://en.wikipedia.org/wiki/Nathan_Rosen"
-    affiliations:
-      name: IAS, Princeton
-      
-articles: []
 ---
+
+<b>Role:</b> Postdoctoral researcher bridging the gap between clinicians and software developers
 
 <p align="justify">
     Dengue epidemics can rapidly increase demand in healthcare services across many endemic settings.
@@ -53,6 +37,37 @@ articles: []
     model performance. If successful, the CDSS will be implemented and deployed to evaluate its clinical
     utility.
 </p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm">
+        {% include figure.html path="assets/resources/dcat/dcat-01.PNG" 
+        title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
+        {% include figure.html path="assets/resources/dcat/dcat-02.PNG" 
+        title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
+        {% include figure.html path="assets/resources/dcat/dcat-03.PNG" 
+        title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm">
+        {% include figure.html path="assets/resources/dcat/dcat-04.PNG" 
+        title="similar past patients" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
+        {% include figure.html path="assets/resources/dcat/dcat-05.PNG" 
+        title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
+        {% include figure.html path="assets/resources/dcat/dcat-06.PNG" 
+        title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+</div>
+
 
 <br>
 

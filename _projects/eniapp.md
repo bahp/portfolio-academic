@@ -7,7 +7,7 @@ importance: 3
 category: icl
 ---
 
-<b>Role:</b> Conceptualization, architect, design, develop and deployment on NHS.
+<b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.
 
 <p align="justify">
     The aim of this project is improving upon the initial rule-based model and providing 

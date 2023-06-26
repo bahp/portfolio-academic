@@ -21,7 +21,7 @@ toc:
    <i class="fa fa-sm fa-link align-items-right" aria-hidden="true"></i>
 </a>
 
-<b>Role:</b> Conceptualization, architect, design, develop and deployment on NHS.
+<b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.
 
 <p align="justify">
     EPIC IMPOC is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
@@ -82,21 +82,21 @@ toc:
 </p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm">
+    <div class="col-md">
         {% include figure.html path="assets/resources/epicimpoc/cdss-main.png" 
-        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm pl-1">
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
         {% include figure.html path="assets/resources/epicimpoc/cdss-therapy.png" 
-        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        title="dose planning" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm pl-1">
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
         {% include figure.html path="assets/resources/epicimpoc/cdss-laboratory.png" 
-        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        title="laboratory results" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm pl-1">
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
         {% include figure.html path="assets/resources/epicimpoc/cdss-cbr-3.png" 
-        title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        title="similar past patients" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 
