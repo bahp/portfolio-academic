@@ -1,17 +1,20 @@
 ---
 layout: page
 title: ENIAPP
-description: Clinical decision support systems (CDSS) to support antimicrobial therapy prescriptions.
+description: Clinical decision support system (CDSS) to support infection diagnosis and antimicrobial therapy selection.
 img: assets/resources/backgrounds/thumbnails/background-2.jpeg
 importance: 3
 category: icl
 ---
+
+<b>Role:</b> Conceptualization, architect, design, develop and deployment on NHS.
 
 <p align="justify">
     The aim of this project is improving upon the initial rule-based model and providing 
     personalised decision support using individual level data specifically for patients in 
     intensive care through the use of Case-Based Reasoning. (the ENIAPP project)
 </p>
+
 <p align="justify">
     This project involved 18 months of work including: stakeholder requirements gathering; workflow 
     modelling; medical decision making analysis from critical care and infection specialists; mapping of 
