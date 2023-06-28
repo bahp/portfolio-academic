@@ -4,7 +4,7 @@ title: EPiCIMPOC
 description: Clinical decision support system (CDSS) to support infection management at the point of care.
 img: assets/resources/backgrounds/thumbnails/background-3.jpeg
 importance: 1
-category: icl
+category: Imperial College London
 
 toc:
   - name: Equations

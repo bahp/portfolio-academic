@@ -4,7 +4,7 @@ title: ENIAPP
 description: Clinical decision support system (CDSS) to support infection diagnosis and antimicrobial therapy selection.
 img: assets/resources/backgrounds/thumbnails/background-2.jpeg
 importance: 3
-category: icl
+category: Imperial College London
 ---
 
 <b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.

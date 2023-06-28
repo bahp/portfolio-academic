@@ -2,11 +2,9 @@
 layout: page
 title: abc4d
 description: Advanced bolus calculator for diabetes (ABC4D) based on the Case-based Reasoning (CBR) methodology.
-
-
 img: assets/resources/backgrounds/thumbnails/background-6.jpeg
 importance: 3
-category: icl
+category: Imperial College London
 ---
 
 <b>Role:</b> Development of the ABC4D server and deployment on AWS.

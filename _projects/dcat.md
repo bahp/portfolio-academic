@@ -4,7 +4,7 @@ title: D-CAT
 description: Clinical application tool to support dengue management in low and middle income countries.
 img: assets/resources/backgrounds/thumbnails/background-1.jpeg
 importance: 3
-category: icl
+category: Imperial College London
 ---
 
 <b>Role:</b> Postdoctoral researcher bridging the gap between clinicians and software developers

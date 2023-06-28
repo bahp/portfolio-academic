@@ -4,7 +4,7 @@ title: Health AI Zine
 description: Booklet in a zine format illustrating the key ideas behind the use of data and AI for decision-support in health-care.
 img: assets/resources/backgrounds/thumbnails/background-5.jpeg
 importance: 3
-category: icl
+category: Imperial College London
 ---
 
 <b>Role:</b> Consultant or advisor on AI/ML in health care.

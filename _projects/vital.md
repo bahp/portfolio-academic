@@ -4,7 +4,7 @@ title: VITAL
 description: Clinical decision support system (CDSS) to support dengue management in limited resource settings.
 img: assets/resources/backgrounds/thumbnails/background-4.jpeg
 importance: 2
-category: icl
+category: Imperial College London
 ---
 
 <a href="http://vital.oucru.org/"
