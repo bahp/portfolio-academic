@@ -9,61 +9,23 @@
       value: Spanish, English
 
 
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD in Computer Science and Healthcare
-      institution: Imperial College London, London, UK
-      year: 2015-2019
-      description:
-        - title: Thesis
-          contents:
-            - Pantelis Georgiou<br>
-            - Centre for Bio-Inspired Technology, EEE
-            - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
-              <a href="https://spiral.imperial.ac.uk/handle/10044/1/73000" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
-        - title: Activities & Awards
-          contents:
-            - Participation in the Imperial Festival, 2016-2017.
-            - Research placement at UCT, Cape Town, South Africa, 2016.
-            - Global Health Fellows Programme at UCT, 2016.
-            - Best poster award at ARC conference, 2016.
-            - Participation in AMR DxC at University of Edinburgh, 2015.
-
-    - title: M.Sc. in Machine Learning (2 years)
-      institution: Royal Institute of Technology, Stockholm, Sweden
-      year: 2011 - 2013
-      description:
-        - title: Thesis
-          contents:
-            - Björkman, Mårten
-            - School of Computer Science and Communication
-            - Multi-View Object Recognition and Classification. Graph-Based Representation of Visual Features and Structured Learning and Prediction.
-              <a href="http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A703166&dswid=8110" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
-
-    - title: B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)
-      institution: Rey Juan Carlos University, Madrid, Spain
-      year: 2007 - 2013
-      description:
-        - title: Thesis
-          contents:
-            - Inmaculada Mora
-            - Signal Theory and Communications
-            - Algorithms for Detection and Description of Visual Features for Object Recognition. Analysis and Applications.
-              <a href="https://bahp.github.io/portfolio/docs/static/pdfs/bahp-thesis-urjc.pdf" class="" target="_blank"><i class="fa fa-sm fa-link" aria-hidden="true"></i></a>
-        - title: Activities & Awards
-          contents:
-            - Young researcher's best thesis award, 2013.
-            - Leonardo scholarship at IRILL, Paris, France, 2012.
-            - Erasmus scholarship at KTH, Stockholm, Sweden, 2011.
-            - Wireless 4x4 radio-controlled car challenge, 2010.
-
 - title: Experience
   type: time_table
   contents:
+    - title: Research Fellow
+      institution: Imperial College London, London, UK
+      year: 2023 - Present
+      description:
+        - The Centres for Antimicrobial Optimisation Network (CAMO-NET) funded by Wellcome brings
+          together research teams from the University of Liverpool and Imperial College London in
+          the United Kingdom, the University of Cape Town in South Africa, the Infectious Diseases
+          Institute in Uganda, and the Faculty of Medicine at the University of Sao Paulo in Brazil
+          to conduct research to optimize antimicrobial use and improve access to effective treatment
+          for bacterial infections across low-, middle-, and high-resource settings.
+
     - title: Research Associate
       institution: Imperial College London, London, UK
-      year: 2020 - Present
+      year: 2020 - 2023
       description:
         - Artificial Intelligence and machine learning to devise clinical decision support systems
           (CDSS) from clinical, physiological and imaging data for the early identification of dengue
@@ -73,6 +35,19 @@
           Vietnam paired with biomedical engineers and computational scientists from University of
           Oxford, King’s college London (KCL), Imperial College London (ICL) and Eidgenössische
           Technische Hochschule (ETH), Zurich
+
+        - title: Activities & Awards
+          contents:
+            - Featured innovative start-up at Tech Foresight 2040.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_5/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+            - Techcelerate award (entrepreneurial program), 2020.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_4/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+            - Assistant supervisor
+
 
     - title: Research Assistant
       institution: Imperial College London, London, UK
@@ -84,10 +59,6 @@
           is a collaborative project between clinicians and other healthcare professionals from the
           National Institute for Health Research Health Protection and Research Unit (NIHR HPRU) and
           engineers from the Centre for Bioinspired Technology (CBIT).
-        - title: Activities & Awards
-          contents:
-            - Featured innovative start-up at Tech Foresight 2040.
-            - Techcelerate award (entrepreneurial program), 2020.
 
     - title: Software Engineer
       institution: Wide IO LTD, London, UK
@@ -104,6 +75,75 @@
         - Internship at the Center for Innovation and Research on Free Software (IRILL) under the
           Leonardo program, 2012. The aim of this one-month internship was to develop e-learning
           resources such as blog entries, ebooks and games.
+
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD in Computer Science and Healthcare
+      institution: Imperial College London, London, UK
+      year: 2015-2019
+      description:
+        - title: Thesis
+          contents:
+            - Pantelis Georgiou<br>
+            - Centre for Bio-Inspired Technology, EEE
+            - Data-driven Web-Based Intelligent Decision Support System for Infection Management at the Point of Care.
+              <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=Data%2Ddriven%20web%2Dbased%20intelligent%20decision%20support%20system%20for%20infection%20management%20at%20point%20of%20care" class="" target="_blank">
+                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
+        - title: Activities & Awards
+          contents:
+            - Participation in the Imperial Festival, 2016-2017.
+            - Research placement at UCT, Cape Town, South Africa, 2016.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_15/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+            - Global Health Fellows Programme at UCT, 2016.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_12/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+            - Best poster award at EMBRACE conference, 2016.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_11/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+            - Participation in AMR DxC at University of Edinburgh, 2015.
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_13/" class="float-right" target="_blank">
+                  <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+                </a>
+
+    - title: M.Sc. in Machine Learning (2 years)
+      institution: Royal Institute of Technology, Stockholm, Sweden
+      year: 2011 - 2013
+      description:
+        - title: Thesis
+          contents:
+            - Björkman, Mårten
+            - School of Computer Science and Communication
+            - Multi-view object recognition and classification. Graph-Based representation of visual features and structured learning and prediction.
+              <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=KTH-,Multi%2DView%20Object%20Recognition%20and%20Classification.%20Graph%2DBasedRepresentation%20of%20Visual%20Features%20and%20Structured%20Learning%20and%20Prediction,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez" class="" target="_blank">
+                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
+
+    - title: B.Sc. in Telecommunications (5 years) <br> B.Sc. in Computer Science (3 years)
+      institution: Rey Juan Carlos University, Madrid, Spain
+      year: 2007 - 2013
+      description:
+        - title: Thesis
+          contents:
+            - Inmaculada Mora
+            - Signal Theory and Communications
+            - Algorithms for detection and description of visual features for object recognition. Analysis and applications.
+              <a href="https://bahp.github.io/portfolio-academic/publications/theses/#:~:text=URJC-,Algorithms%20for%20Detection%20and%20Description%20of%20Visual%20Features%20for%20Object%20Recognition.%20Analysis%20and%20Applications,-Bernard%20Hern%C3%A1ndez%20P%C3%A9rez" class="" target="_blank">
+                <i class="fa fa-sm fa-link" aria-hidden="true"></i>
+              </a>
+        - title: Activities & Awards
+          contents:
+            - Young researcher's best thesis award, 2013.
+            - Leonardo scholarship at IRILL, Paris, France, 2012.
+            - Erasmus scholarship at KTH, Stockholm, Sweden, 2011.
+            - Wireless 4x4 radio-controlled car challenge, 2010.
 
 #- title: Open Source Projects
 #  type: time_table
