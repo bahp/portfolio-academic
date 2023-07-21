@@ -39,7 +39,11 @@ Presented at:
     <a href="https://bahp.github.io/flipbooks/bookshelves/bs1/index.html" class="btn">
         See Booklet
     </a>
+    <!--
     <a href="https://github.com/bahp/flipbooks/blob/main/aihealth/zine/zine.pdf" class="btn">
+        Download Booklet
+    </a>-->
+    <a href="https://github.com/bahp/portfolio-academic/assets/pdf//other/health-ai-zine/health-ai-zine.pdf" class="btn">
         Download Booklet
     </a>
 </div>
