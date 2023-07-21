@@ -1,8 +1,12 @@
 ---
 layout: post
-date: 2016-05-15 15:59:00-0400
-inline: true
-tags: poster conference
+title: Presentation (poster) and award at EMBRACE in London (award)!
+date: 2016-05-15 15:59:00
+inline: false
+tags: award conference icl
+categories: conference
 ---
 
-Best <a href="Point-of-care intelligent decision support system for antimicrobial prescribing in the intensive care unit">poster</a>  award at ARC!
+<div class="publications">
+   {% bibliography -f conferences -q @*[key=hernandez2016point]* %}
+</div>
