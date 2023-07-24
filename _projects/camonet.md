@@ -2,7 +2,7 @@
 layout: page
 title: CAMO-NET
 description: Multidisciplinary global collaboration to address the impact of antimicrobial resistance.
-img: assets/resources/backgrounds/thumbnails/background-4.jpeg
+img: assets/resources/backgrounds/thumbnails/background-15.jpeg
 importance: 2
 category: Imperial College London
 ---
