@@ -54,7 +54,7 @@ category: Imperial College London
     sites would become National Hubs, and new shadow sites would be identified.
 </p>
 
-<div class="row justify-content-sm-center">
+<div class="row justify-content-center">
     {% include figure.html path="assets/resources/camonet/worldmap.jpeg" 
     title="CAMO-Net sites" class="img-fluid rounded z-depth-1" zoomable=true %}
 </div>

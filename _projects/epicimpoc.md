@@ -82,7 +82,7 @@ toc:
 </p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-md">
+    <div class="col-sm">
         {% include figure.html path="assets/resources/epicimpoc/cdss-main.png" 
         title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
