@@ -82,7 +82,7 @@ toc:
 </p>
 
 <div class="row justify-content-sm-center">
-    <div class="col-md">
+    <div class="col-sm">
         {% include figure.html path="assets/resources/epicimpoc/cdss-main.png" 
         title="patient table" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
@@ -157,29 +157,33 @@ toc:
     severity of the patient and the risk of suffering complications in following days, among others.
 </p>
 
-<div class="row">
-    <div class="col-6">
+
+<div class="row justify-content-sm-center">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/32pTOcXszyg" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-                   picture-in-picture" allowfullscreen>
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/32pTOcXszyg?modestbranding=1&rel=0&showinfo=0&autohide=1" 
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
         </iframe>    
     </div>
-    <div class="col-6">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/U-Qb8E4NLuQ" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-            picture-in-picture" allowfullscreen>
-        </iframe>
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/U-Qb8E4NLuQ?modestbranding=1&rel=0&showinfo=0&autohide=1" 
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>    
     </div>
-    <div class="col-6">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/r4a4ZbbdlDA" 
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/r4a4ZbbdlDA?modestbranding=1&rel=0&showinfo=0&autohide=1" 
             title="YouTube video player" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>

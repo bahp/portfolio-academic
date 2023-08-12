@@ -55,11 +55,11 @@ category: Imperial College London
         {% include figure.html path="assets/resources/abc4d/img-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm pl-1 pr-1">
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
         {% include figure.html path="assets/resources/abc4d/yoda-demo-2.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
-    <div class="col-sm">
+    <div class="col-sm pl-md-1 pl-lg-1 pl-xl-1">
         {% include figure.html path="assets/resources/abc4d/yoda-demo-1.png" 
         title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
