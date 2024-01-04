@@ -24,10 +24,12 @@ toc:
 <b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.
 
 <p align="justify">
-    EPIC IMPOC is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
+    Enhanced Personalized and Integrated Care for Infection Management at the Point of Care, or EPIC IMPOC,
+    is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
     to help doctors prescribe the most appropriate antibiotics. EPIC IMPOC is a collaborative project between 
-    medics and other heathcare professionals from the  National Institute for Health Research Health Protection 
-    Research Unit (NIHR HPRU) and engineers from CBIT.
+    medics and other healthcare professionals from the <a href="https://www.imperial.ac.uk/medicine/hpru-amr/">National 
+    Institute for Health Research Health Protection Research Unit</a> (NIHR HPRU) and engineers from 
+    <a href="https://www.imperial.ac.uk/bio-inspired-technology/">Centre for Bio-Inspired Technology</a> (CBIT).
 </p>
 
 <p align="justify">

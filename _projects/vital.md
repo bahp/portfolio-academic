@@ -20,10 +20,10 @@ category: Imperial College London
     funded by the <a href="https://wellcome.ac.uk/">Wellcome Trust</a> as part of its Innovations 
     for Impact strategy, providing ICU/critical care innovation in resource-limited settings. The 
     project is a collaboration between The <a href="http://www.bvbnd.vn/">Hospital for Tropical 
-    Diseases</a> and <a href="http://www.oucru.org/">Oxford University Clinical Research Unit</a>, 
+    Diseases (HTD)</a> and <a href="http://www.oucru.org/">Oxford University Clinical Research Unit (OUCRU)</a>, 
     in Ho Chi Minh City, the <a href="http://www.ox.ac.uk/">University of Oxford</a>, 
-    <a href="https://www.imperial.ac.uk/">Imperial College London</a>, 
-    <a href="https://www.kcl.ac.uk/">King’s College London</a>, 
+    <a href="https://www.imperial.ac.uk/">Imperial College London (ICL)</a>, 
+    <a href="https://www.kcl.ac.uk/">King’s College London (KCL)</a>, 
     <a href="https://ethz.ch/en.html">ETH Zurich</a> and 
     <a href="https://www.unimelb.edu.au/">the University of Melbourne</a>.
 </p>

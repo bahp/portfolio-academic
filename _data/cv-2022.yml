@@ -22,9 +22,6 @@
           Institute in Uganda, and the Faculty of Medicine at the University of Sao Paulo in Brazil
           to conduct research to optimize antimicrobial use and improve access to effective treatment
           for bacterial infections across low-, middle-, and high-resource settings.
-            <a href="https://camonet.org/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
 
     - title: Research Associate
       institution: Imperial College London, London, UK
@@ -32,19 +29,21 @@
       description:
         - Artificial Intelligence and machine learning to devise clinical decision support systems
           (CDSS) from clinical, physiological and imaging data for the early identification of dengue
-          in low- and middle-income countries.
-            <a href="/portfolio-academic/projects/vital/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
+          shock under the "Innovations for impact in resource-limited settings" Wellcome Trust
+          innovations flagship programme. The team combines clinical expertise from Oxford University
+          Clinical Research Unit (OUCRU) and Hospital for Tropical Diseases (HTD) in Ho Chi Minh City,
+          Vietnam paired with biomedical engineers and computational scientists from University of
+          Oxford, King’s college London (KCL), Imperial College London (ICL) and Eidgenössische
+          Technische Hochschule (ETH), Zurich
 
         - title: Activities & Awards
           contents:
             - Featured innovative start-up at Tech Foresight 2040.
-                <a href="/portfolio-academic/news/announcement_5/" class="float-right" target="_blank">
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_5/" class="float-right" target="_blank">
                   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
                 </a>
             - Techcelerate award (entrepreneurial program), 2020.
-                <a href="/portfolio-academic/news/announcement_4/" class="float-right" target="_blank">
+                <a href="https://bahp.github.io/portfolio-academic/news/announcement_4/" class="float-right" target="_blank">
                   <i class="fa fa-sm fa-link" aria-hidden="true"></i>
                 </a>
             - Assistant supervisor
@@ -54,11 +53,12 @@
       institution: Imperial College London, London, UK
       year: 2014 - 2019
       description:
-        - Development of a comprehensive and modular data-driven web-based intelligent decision support
-          system to help clinicians prescribe the most appropriate antibiotics at the point of care.
-            <a href="/portfolio-academic/projects/epicimpoc/" class="float-right" target="_blank">
-              <i class="fa fa-sm fa-link" aria-hidden="true"></i>
-            </a>
+        - Enhanced, Personalized and Integrated Care for Infection Management at the point of Care
+          (EPIC IMPOC) is an NIHR i4i funded project to develop an intelligent clinical decision
+          support system to help clinicians prescribe the most appropriate antibiotics. EPIC IMPOC
+          is a collaborative project between clinicians and other healthcare professionals from the
+          National Institute for Health Research Health Protection and Research Unit (NIHR HPRU) and
+          engineers from the Centre for Bioinspired Technology (CBIT).
 
     - title: Software Engineer
       institution: Wide IO LTD, London, UK
