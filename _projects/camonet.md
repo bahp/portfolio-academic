@@ -96,8 +96,8 @@ category: Imperial College London
 #### Events
 
 <ul>
-    <li><b>14 Dec 2023</b> - CAMO-Net AI meeting in Liverpool (<a href="/portfolio-academic/news/announcement_20/">link</a>)</li>
-    <li><b>21 Jun 2023</b> - CAMO-Net AI meeting in London (<a href="/portfolio-academic/news/announcement_19/">link</a>)</li>
+    <li><b>14 Dec 2023</b> - CAMO-Net AI meeting in London (<a href="/portfolio-academic/news/announcement_20/">link</a>)</li>
+    <li><b>21 Jun 2023</b> - CAMO-Net AI meeting in Liverpool (<a href="/portfolio-academic/news/announcement_19/">link</a>)</li>
 </ul>
 
 
