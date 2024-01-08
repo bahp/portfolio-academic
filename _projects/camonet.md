@@ -93,6 +93,13 @@ category: Imperial College London
     <li>Featured in <a href="https://news.liverpool.ac.uk/2023/04/20/new-global-research-consortium-to-optimise-antimicrobial-use-in-humans/">University of Liverpool</a> news</li>
 </ul>
 
+#### Events
+
+<ul>
+    <li><b>14 Dec 2023</b> - CAMO-Net AI meeting in Liverpool (<a href="/portfolio-academic/news/announcement_20/">link</a>)</li>
+    <li><b>21 Jun 2023</b> - CAMO-Net AI meeting in London (<a href="/portfolio-academic/news/announcement_19/">link</a>)</li>
+</ul>
+
 
 #### Publications
     
