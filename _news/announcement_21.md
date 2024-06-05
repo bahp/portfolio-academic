@@ -23,9 +23,30 @@ categories: conference
     data requirements, features, design choices, and common challenges. The workshop 
     culminates in a hands-on activity where participants, will collaboratively design 
     their own AMR dashboards. This includes discussions on data and information display,
-    creating dashboard sketches, and presenting their designs for feedback.
+    creating dashboard sketches, and presenting their designs for feedback. All the 
+    material is included at the end of the page.
 </p>
 
+<p align="justify">
+   To conclude, see the below video generously shared by Prof. David Aanensen, which 
+   provides a brief demonstration of some of the tools and dashboards developed by the 
+   Centre for Genomic Pathogenic Surveillance to display various types of AMR data. 
+   Register your interest <a href="https://forms.gle/VgpGCB7PES6GG2dq9">here</a> to 
+   attend the upcoming webinar by David Aanensen, Director of the Centre for Genomic
+   Pathogenic Surveillance.
+</p>
+
+<div class="row justify-content-sm-center">
+    <div class="col-xl-12 col-lg-12 col-md-12">
+       <iframe class="rounded w-100"
+               src="https://player.vimeo.com/video/953536425" 
+               height="300" frameborder="0" 
+               allow="autoplay; fullscreen" allowfullscreen>
+       </iframe>
+    </div>
+</div>
+
+<br>
 
 <p align="justify">
     <b>Note:</b> Most of the material has been reused from the <a href='https://dashboarddesignpatterns.github.io/'>
