@@ -15,7 +15,7 @@ categories: conference
     between researchers from the different organizations on a regular basis.
 </p>
 
-<p><b> Workshop 01: </b> Data and dashboards in the context of AMR</p>
+<p> Workshop 01: Data and dashboards in the context of AMR </p>
 
 <p align="justify">
     The aim of this workshop is guide participants through the essentials of dashboard 
