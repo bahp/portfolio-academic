@@ -15,6 +15,8 @@ categories: conference
     between researchers from the different organizations on a regular basis.
 </p>
 
+<p><b> Workshop 01: </b> Data and dashboards in the context of AMR</p>
+
 <p align="justify">
     The aim of this workshop is guide participants through the essentials of dashboard 
     design, specifically tailored for Antimicrobial Resistance (AMR) data visualization. 
@@ -49,8 +51,12 @@ categories: conference
 <br>
 
 <p align="justify">
-    <b>Note:</b> Most of the material has been reused from the <a href='https://dashboarddesignpatterns.github.io/'>
-    Dashboard Design Patterns</a> GitHub repository.
+    <b>Note:</b> Most of the material has been reused from the 
+    <a href='https://dashboarddesignpatterns.github.io/'>
+    Dashboard Design Patterns</a> GitHub repository. <br>
+    <b>Note:</b> The presentation from Patrick Musicha which took place as part 
+    of the second workshop is currently pending publication and therefore cannot 
+    be shared.
 </p>
 
 <br>
@@ -59,24 +65,31 @@ categories: conference
 
 <ul>
  <li>
-    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/slides.pdf' target='_blank'> Slides </a>
+    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/workshop-01-bernard-hernandez-slides.pdf' target='_blank'> Slides </a>
  </li>
  <li>
-    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/cheatsheet.pdf' target='_blank'> Cheatsheet </a>
+    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/workshop-01-bernard-hernandez-cheatsheet.pdf' target='_blank'> Cheatsheet </a>
  </li>
  <li>
-    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/worksheets.pdf' target='_blank'> Worksheets </a>
+    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/workshop-01-bernard-hernandez-worksheets.pdf' target='_blank'> Worksheets </a>
  </li>
  <li>
-    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/graphs.pdf' target='_blank'> Graphs </a>
+    <a href='/portfolio-academic/assets/pdf/conferences/2024/camonet-uganda/workshop-01-bernard-hernandez-graphs.pdf' target='_blank'> Graphs </a>
  </li>
 </ul>
 
+<!--
+#### Links
+
+https://x.com/idimakerere/status/1798352888865161721?s=48
+https://x.com/IDIMakerere
+-->
 
 <!-- Summaries generated with www.summarize.tech -->
 
 #### References
 
 <div class="publications">
-   {% bibliography -f conferences -q @*[key=hernandez2024dashboard]* %}
+   {% bibliography -f miscellaneous -q @*[key=hernandez2024dashboard]* %}
+   {% bibliography -f miscellaneous -q @*[key=zhu2024uganda]* %}
 </div>
