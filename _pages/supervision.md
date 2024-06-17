@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/supervision/
 title: supervision
 description: work conducted by students grouped by year.
-years: [2022, 2021, 2020, 2015]
+years: [2024, 2023, 2022, 2021, 2020, 2015]
 nav: false
 nav_order: 1
 ---

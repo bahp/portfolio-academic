@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Presentation at CAMO-Net AI meeting in London.
+title: Presentation (oral) at CAMO-Net AI meeting in London.
 date: 2023-12-14 16:40:16
 description: march & april, looking forward to summer
 tags: oral camonet
