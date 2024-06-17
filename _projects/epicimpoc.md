@@ -24,10 +24,12 @@ toc:
 <b>Role:</b> Conceptualization, architect, design, development and deployment on NHS.
 
 <p align="justify">
-    EPIC IMPOC is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
+    Enhanced Personalized and Integrated Care for Infection Management at the Point of Care, or EPIC IMPOC,
+    is an NIHR i4i funded project which aims to develop intelligent clinical decision support system 
     to help doctors prescribe the most appropriate antibiotics. EPIC IMPOC is a collaborative project between 
-    medics and other heathcare professionals from the  National Institute for Health Research Health Protection 
-    Research Unit (NIHR HPRU) and engineers from CBIT.
+    medics and other healthcare professionals from the <a href="https://www.imperial.ac.uk/medicine/hpru-amr/">National 
+    Institute for Health Research Health Protection Research Unit</a> (NIHR HPRU) and engineers from 
+    <a href="https://www.imperial.ac.uk/bio-inspired-technology/">Centre for Bio-Inspired Technology</a> (CBIT).
 </p>
 
 <p align="justify">
@@ -157,29 +159,33 @@ toc:
     severity of the patient and the risk of suffering complications in following days, among others.
 </p>
 
-<div class="row">
-    <div class="col-6">
+
+<div class="row justify-content-sm-center">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/32pTOcXszyg" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-                   picture-in-picture" allowfullscreen>
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/32pTOcXszyg?modestbranding=1&rel=0&showinfo=0&autohide=1" 
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
         </iframe>    
     </div>
-    <div class="col-6">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/U-Qb8E4NLuQ" 
-            title="YouTube video player" frameborder="0" 
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; 
-            picture-in-picture" allowfullscreen>
-        </iframe>
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/U-Qb8E4NLuQ?modestbranding=1&rel=0&showinfo=0&autohide=1" 
+            title="YouTube video player" frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+            allowfullscreen>
+        </iframe>    
     </div>
-    <div class="col-6">
+    <div class="col-xl-6 col-lg-6 col-md-6">
         <iframe 
-            class="rounded"
-            src="https://www.youtube.com/embed/r4a4ZbbdlDA" 
+            class="rounded w-100"
+            height="200"
+            src="https://www.youtube.com/embed/r4a4ZbbdlDA?modestbranding=1&rel=0&showinfo=0&autohide=1" 
             title="YouTube video player" frameborder="0" 
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
             allowfullscreen>

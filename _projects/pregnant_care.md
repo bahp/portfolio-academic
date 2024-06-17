@@ -2,7 +2,7 @@
 layout: page
 title: Pregnancy Care
 description: A web-app for midwifes to facilitate the management of antenatal care plans.
-img: assets/resources/backgrounds/thumbnails/background-7.jpeg
+img: assets/resources/backgrounds/thumbnails/background-pregnancy-4.jpg
 importance: 1
 category: Personal Pursuits
 ---

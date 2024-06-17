@@ -2,7 +2,7 @@
 layout: page
 title: Rapid Fire Questions
 description: A web-app for quick, fun, and insightful conversations in a flash!
-img: assets/resources/backgrounds/thumbnails/background-7.jpeg
+img: assets/resources/backgrounds/thumbnails/background-rfq-2.png
 importance: 2
 category: Personal Pursuits
 ---

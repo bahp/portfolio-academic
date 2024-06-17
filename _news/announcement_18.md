@@ -3,9 +3,10 @@ layout: post
 title: Ambassador at the Robotics Summer School
 date: 2016-07-05 15:59:00-0400
 inline: false
-tags: robotics ambassador
+tags: conference oral
 categories: 
 ---
+
 
 <p align="justify">
     Happy to have joined the Ambassadors Team for the Robotic Summer School at Imperial College. It
