@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop at CAMO-Net meeting in Uganda.
+title: Presentation (workshop) at CAMO-Net meeting in Uganda.
 date: 2024-06-03 13:00:00
 description: data and dashboard design workshop
 tags: oral camonet
