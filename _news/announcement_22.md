@@ -22,6 +22,8 @@ categories: conference
     in healthcare. 
 </p>
 
+See <a href="/portfolio-academic/assets/pdf/conferences/2024/camonet-ai-liverpool/agenda.pdf">Agenda</a>.
+
 
 #### Material
 
