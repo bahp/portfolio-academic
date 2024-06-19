@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of cool projects.
 nav: true
 nav_order: 2
-display_categories: [Imperial College London, Personal Pursuits]
+display_categories: [Imperial College London, Personal Pursuits, Freelance]
 horizontal: false
 ---
 
