@@ -2,7 +2,7 @@
 layout: post
 title: Presentation (oral) at CAMO-Net AI meeting in Liverpool.
 date: 2024-06-15 16:40:16
-description: camonet ai uk liverpool
+description: camonet ai uk liverpool .
 tags: oral camonet
 categories: conference
 ---
